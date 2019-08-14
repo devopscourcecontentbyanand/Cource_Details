@@ -1,9 +1,23 @@
-# Cource_Details
+## DevOps_Cource_Details
 
-DevOps Course Content                                               Anand:  +91-6366208930 
  
-Index  : 
-- Git & GitHub - Jenkins - Ansible - Docker - Kubernetes - Maven / NPM - SonarQube - Nexus - Apache Tomcat - Nagios / Monit - Apache  - Nginx - Grafana - AWS ( EC2, VPC, RDS ) 
+### Index  : 
+
+    - AWS ( EC2, VPC, RDS ) 
+    - Git & GitHub 
+    - Jenkins 
+    - Ansible 
+    - Docker 
+    - Kubernetes 
+    - Maven / NPM 
+    - SonarQube 
+    - Nexus 
+    - Apache Tomcat 
+    - Nagios / Monit 
+    - Apache  
+    - Nginx 
+    - Grafana 
+    
 Projects & Real Time Scenarios: 
 - Going to setup End-to-End CI/CD pipeline with GitHub, Maven, Jenkins, Ansible and Docker with 
 JenkinsFile, DockerFile, Shell-Scripts and Ansible-Playbooks. - Monitoring Remote Server CPU, Memory, Networking etc... with Grafana, InfluxDB by using 
