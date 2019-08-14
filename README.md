@@ -4,6 +4,7 @@
 ### Index  : 
 
     - AWS ( EC2, VPC, RDS ) 
+   `Projects & Real Time Scenarios`
     - Git & GitHub 
     - Jenkins 
     - Ansible 
@@ -24,6 +25,7 @@ JenkinsFile, DockerFile, Shell-Scripts and Ansible-Playbooks. - Monitoring Remot
 Python Scripting. - Server, Networking, Database setup from AWS for CI/CD setup. It includes EC2, VPC and RDS 
 services.   - JAVA, NodeJS, HTML & CSS based project deployments on Dev, Stage and Production 
 environments and Troubleshooting. 
+
 Trainer Details:  
 Anand Reddy – AWS & DevOps Engineer 
 Email: githubanand@gmail.com  
