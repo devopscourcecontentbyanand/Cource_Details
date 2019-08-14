@@ -4,7 +4,6 @@
 ### Index  : 
 
     - AWS ( EC2, VPC, RDS ) 
-   `Projects & Real Time Scenarios`
     - Git & GitHub 
     - Jenkins 
     - Ansible 
